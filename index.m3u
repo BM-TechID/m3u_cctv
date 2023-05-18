@@ -1,3 +1,97 @@
 #EXTM3U
-#EXTINF:-1, CCTV Banyumas
-https://raw.githubusercontent.com/BM-TechID/m3u_cctv/main/banyumas/atsc_banyumas.m3u
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG GOR SATRIA
+http://atcs.banyumaskab.go.id:80/camera/gor_satria.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG GOR SATRIA SELATAN
+http://atcs.banyumaskab.go.id:80/camera/gor_satria_selatan.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG KEBONDALEM
+http://atcs.banyumaskab.go.id:80/camera/kebon_dalem.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG KEBONDALEM BARAT
+http://atcs.banyumaskab.go.id:80/camera/kebon_dalem_barat.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG KEBON DALEM TIMUR
+http://atcs.banyumaskab.go.id:80/camera/kebon_dalem_timur.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG SUTORUMAN BARAT
+http://atcs.banyumaskab.go.id:80/camera/sutosuman_barat.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG SUTOSUMAN
+http://atcs.banyumaskab.go.id:80/camera/sutosuman.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG KALIBOGOR
+http://atcs.banyumaskab.go.id:80/camera/kalibogor.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG TANJUNG
+http://atcs.banyumaskab.go.id:80/camera/tanjung.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG KARANG PUCUNG
+http://atcs.banyumaskab.go.id:80/camera/karang_pucung.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG KARANG BAWANG
+http://atcs.banyumaskab.go.id:80/camera/karang_bawang.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG KARANG BAWANG SELATAN
+http://atcs.banyumaskab.go.id:80/camera/karang_bawang_selatan.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG KARANG BAWANG TIMUR
+http://atcs.banyumaskab.go.id:80/camera/karang_bawang_timur.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG KARANG BAWANG BARAT
+http://atcs.banyumaskab.go.id:80/camera/karang_bawang_barat.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG PANCURAWIS
+http://atcs.banyumaskab.go.id:80/camera/pancurawis.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV RUAS KALIBOGOR
+http://atcs.banyumaskab.go.id:80/camera/ruas_kalibogor.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG SAWANGAN
+http://atcs.bany
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG SAWANGAN
+http://atcs.banyumaskab.go.id:80/camera/sawangan.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG MUSEUM-BRI
+http://atcs.banyumaskab.go.id:80/camera/museum_bri.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG JL MASJID
+http://atcs.banyumaskab.go.id:80/camera/jl_masjid.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SOKARAJA
+http://atcs.banyumaskab.go.id:80/camera/sokaraja.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SOKARAJA SELATAN
+http://atcs.banyumaskab.go.id:80/camera/sokaraja_selatan_ptz.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SOKARAJA BARAT
+http://atcs.banyumaskab.go.id:80/camera/sokaraja_barat_fix.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SOKARAJA SELATAN 2
+http://atcs.banyumaskab.go.id:80/camera/sokaraja_selatan_fix.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV MARGONO
+http://atcs.banyumaskab.go.id:80/camera/margono.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SITUMPUR
+http://atcs.banyumaskab.go.id:80/camera/situmpur.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV UNDERPASS
+http://atcs.banyumaskab.go.id:80/camera/underpass.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV LINGGAMAS
+http://atcs.banyumaskab.go.id:80/camera/linggamas.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV KALIBAGOR
+http://atcs.banyumaskab.go.id:80/camera/kalibagor.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV KARANG LEWAS
+http://atcs.banyumaskab.go.id:80/camera/karang_lewas.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV KARANGLO
+http://atcs.banyumaskab.go.id:80/camera/karanglo.m3u8
+
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV AJIBARANG
+http://atcs.banyumaskab.go.id:80/camera/ajibarang.m3u8
