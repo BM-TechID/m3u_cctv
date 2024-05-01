@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG ALUN ALUN
+http://atcs.banyumaskab.go.id:80/camera/alun_alun.m3u8
+
 #EXTINF:-1 tvg-logo="http://atcs.banyumaskab.go.id/assets/img/traffic_light_PNG15287.png" group-title="CCTV BANYUMAS",CCTV SIMPANG GOR SATRIA
 http://atcs.banyumaskab.go.id:80/camera/gor_satria.m3u8
 
